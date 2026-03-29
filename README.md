@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Ivis, a personal AI project built with Python.<br><br>🌱 I’m currently learning: Advanced implementation techniques in C and optimizing front-end performance.<br><br>💻 Tech Stack: Python, C, and Front-End technologies (HTML, CSS, JavaScript).<br><br>⚡ Fun Fact: I'm a bit of a hardware enthusiast and a gamer—currently rocking a GTX 1650 setup.
+🔭 I’m currently working on my own grouth of knowlage.<br><br>🌱 I’m currently learning: Advanced implementation techniques in C and optimizing front-end performance.<br><br>💻 Tech Stack: Python, C, and Front-End technologies (HTML, CSS, JavaScript).<br><br>⚡ Fun Fact: I'm a bit of a hardware enthusiast and a gamer—currently rocking a GTX 1650 setup.
 
 
 ## 🌐 Socials:
