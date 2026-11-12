@@ -30,6 +30,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| 📥 [**StreamVault**](https://github.com/dhruvil-114/streamvault-downloader) | Universal desktop media & video downloader for YouTube, Instagram, TikTok & 1000+ platforms with 4K video & 320kbps MP3 support. | `Electron` `React 19` `yt-dlp` `FFmpeg` `Tailwind` |
 | 🖼️ [**PC Gallery**](https://github.com/dhruvil-114/pc-gallery) | 100% private, on-device AI photo gallery with facial recognition (YuNet + SFace), EXIF indexing & instant WebP caching. | `FastAPI` `Python` `OpenCV` `React` `Tailwind` `SQLite` |
 | 💳 [**Digital Passbook**](https://github.com/dhruvil-114/web-passbook) | Mobile-first personal finance tracker with multi-wallet support, instant PDF statements & Firebase cloud sync. | `JavaScript` `HTML5` `CSS3` `Firebase` `jsPDF` |
 
